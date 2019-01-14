@@ -1,4 +1,4 @@
-# raspberry-pi-GPIO-controller
+# raspberry-pi GUI
 nevigate to the folder where you have downloaded python script and run the python script with terminal with command python GPIO_controller.py
 NOTE:
       RUNNING THE PROGRAM WILL SET ALL GPIO PINS AS LOW
