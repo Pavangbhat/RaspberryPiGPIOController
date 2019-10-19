@@ -1,4 +1,4 @@
-from tkinter import *
+from Tkinter import *
 #GPIO pins intiallisation
 
 import RPi.GPIO as GPIO
